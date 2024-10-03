@@ -7,6 +7,6 @@ int main() {
 	cout << "College of Computer Studies\n";
 	cout << "BSIT-1B\n";
 	cout << "Alexxa Kimjoy S. Balane\n";
-	cout << "P-2 Saguip,Guinacutan, Vinzons,Camarines Norte\n";
+	cout << "P-2 Saguip, Guinacutan, Vinzons, Camarines Norte\n";
 	return 0;
 }
