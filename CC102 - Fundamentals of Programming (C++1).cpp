@@ -25,12 +25,12 @@ int main ()
 	cin << sardinesQty;
 	
 	cout << "Enter the price of coffee";
-	cin >> coffeUSD;
+	cin >> coffeeUSD;
 	cout << "Enter quantity of coffee";
 	cin >> coffeeQty;
 	
 	cout << "Enter the price of milk";
-	cin << milkQty;
+	cin << milkUSD;
 	cout << "Enter quantity of milk";
 	cin >> milkQty;
 	
