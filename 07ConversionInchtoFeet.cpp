@@ -14,6 +14,7 @@ int main () {
 	
 	// Convert inches to feet and inches
 	feet = inches / in2feet;
+	inches = inches % in2feet;
 	cout << feet << "feet" << inches << "inches" << endl;
 	return 0;
 }
