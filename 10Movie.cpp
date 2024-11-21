@@ -6,7 +6,7 @@ int main()
 {
 	int age;
 	double money;
-	biil withParent;
+	bool withParent;
 
 	cout << "Enter age: ";
 	cin >> age;
