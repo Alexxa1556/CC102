@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    for (int i = 8; i >= 1; i--) { // start at 8 and decrease to 1 
+    for (int i = 8; i >= 1; i--) { // Start at 8 and decrease to 1 
         for (int j = 1; j <= i; j++) {  
             cout << "# ";
         }
