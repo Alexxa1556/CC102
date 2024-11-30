@@ -10,7 +10,7 @@ int main() {
         for (int j = 1; j <= i; j++) {
             cout << j << " ";
         }
-        cout << endl; // Move to the next line of each ro
+        cout << endl; // Move to the next line of each row
     }
     return 0;
 }
